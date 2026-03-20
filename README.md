@@ -1,4 +1,4 @@
-# 📊 E-commerce Sales Analysis
+# 📊 Data Cleaning & Exploratory Analysis
 
 ## 🚀 Project Overview
 This project focuses on analyzing e-commerce sales data to identify trends, seasonality, and key business drivers using Python.
